@@ -19,7 +19,7 @@ The objective is to transform raw transactional data into actionable business in
 
 ## Dataset Overview
 
-The project uses a synthetic e-commerce dataset consisting of seven relational tables and approximately 1.02 million records.
+The project uses a e-commerce dataset consisting of seven relational tables and approximately 1.02 million records.
 
 | Dataset | Records |
 |---|---:|
