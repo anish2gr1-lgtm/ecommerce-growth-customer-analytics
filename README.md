@@ -108,8 +108,3 @@ Developed two interactive dashboard pages:
 - Use customer segmentation to develop more targeted marketing strategies.
 
 
-## Conclusion
-
-This project demonstrates an end-to-end analytical workflow covering SQL-based business analysis, query optimization, data-quality monitoring, Python-based reporting and interactive Power BI dashboards.
-
-It showcases the application of data analytics techniques to solve practical e-commerce business problems and support data-driven decision-making.
