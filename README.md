@@ -33,10 +33,10 @@ The project uses a e-commerce dataset consisting of seven relational tables and 
 
 ## Tools & Technologies
 
-- **SQL (MySQL):** 
-- **Python:** 
-- **Power BI:** 
-- **Excel:** 
+- **SQL (MySQL)** 
+- **Python** 
+- **Power BI** 
+- **Excel** 
 
 ## Project Workflow
 
