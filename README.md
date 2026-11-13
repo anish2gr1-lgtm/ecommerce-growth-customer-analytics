@@ -20,16 +20,15 @@ The objective is to transform raw transactional data into actionable business in
 ## Dataset Overview
 
 The project uses a e-commerce dataset consisting of seven relational tables and approximately 1.02 million records.
+Dataset 
 
-| Dataset | Records |
-|---|---:|
-| Customers | 50,000 |
-| Orders | 150,000 |
-| Order Items | 300,000 |
-| Products | 2,000 |
-| Events | 500,000 |
-| Marketing Spend | 10,000 |
-| Refunds | 10,000 |
+Customers- 50,000 
+Orders- 150,000 
+Order Items- 300,000 
+Products- 2,000 
+Events- 500,000 
+Marketing Spend- 10,000 
+Refunds- 10,000 
 
 ## Tools & Technologies
 
